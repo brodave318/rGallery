@@ -52,6 +52,18 @@ h1, h2 {
   padding: 0;
 }
 
+edit_images {
+  margin-bottom: 10px;
+}
+
+#edit_images img {
+  width: 100%;
+}
+
+.delete {
+  color: red;
+}
+
 footer {
   background-color: #222;
   border-color: #090909;
